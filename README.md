@@ -72,12 +72,12 @@ Example
 
 Query:
 
-Who is the new Defence Against the Dark Arts teacher?
+How does Sirius Black escape?
 
 
 Answer (Gemini):
 
-Professor Remus Lupin is the new Defence Against the Dark Arts teacher in the Prisoner of Azkaban.
+Sirius escaped on Buckbeak.
 
 ## Disclaimer
 
